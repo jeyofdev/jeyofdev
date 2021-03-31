@@ -1,8 +1,8 @@
 ### Hi there, I'm Jérémy Grégoire. 👋
 
-- 🔭 I am currently in training at the [wild code school](https://www.wildcodeschool.com/)
-- 🌱 I’m currently learning Angular
-- 💻 Available for an internship from February 2021
+- 🔭 I just finished my training at  at the [wild code school](https://www.wildcodeschool.com/)
+- 🌱 I’m currently learning Angular & React Native
+- 💻 Actuellement à l'écoute des opportunités pour trouver un stage.
 
 ### Working with :
 
