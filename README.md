@@ -47,6 +47,15 @@
 ![CodePen](https://img.shields.io/badge/CODEPEN-black?style=plastic&logo=codepen)
 ![CodeSandbox](https://img.shields.io/badge/CODESANDBOX-black?style=plastic&logo=codesandbox)
 
+- Tools :  
+![Postman](https://img.shields.io/badge/POSTMAN-black?style=plastic&logo=postman)
+![ESLint](https://img.shields.io/badge/ESLINT-black?style=plastic&logo=eslint)
+![Babel](https://img.shields.io/badge/BABEL-black?style=plastic&logo=babel)
+
+- OS :  
+![IOS](https://img.shields.io/badge/iOS-black?style=plastic&logo=ios)
+![Mac OS](https://img.shields.io/badge/MAC--OS-black?style=plastic&logo=macos)
+
 <!--
 **jeyofdev/jeyofdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
