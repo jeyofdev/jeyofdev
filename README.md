@@ -13,6 +13,7 @@
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-black?style=plastic&logo=bootstrap)
 ![Material UI](https://img.shields.io/badge/MATERIALUI-black?style=plastic&logo=material-ui)
 ![js](https://img.shields.io/badge/-JAVASCRIPT-black?style=plastic&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=plastic&logo=typescript)
 ![React](https://img.shields.io/badge/-REACT-black?style=plastic&logo=react)
 ![React Router](https://img.shields.io/badge/REACT--ROUTER-black?style=plastic&logo=react-router)
 ![Styled Components](https://img.shields.io/badge/STYLED--COMPONENTS-black?style=plastic&logo=styled-components)
