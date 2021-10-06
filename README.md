@@ -1,7 +1,7 @@
 ### Hi there, I'm Jérémy Grégoire. 👋
 
 - 🔭 Currently in advanced web and mobile developer training for 12 months until September 14, 2022.
-- 💻 Currently in alternation with the company inWine.
+
 
 ### Working with :
 
