@@ -57,6 +57,9 @@
 ![IOS](https://img.shields.io/badge/iOS-black?style=plastic&logo=ios)
 ![Mac OS](https://img.shields.io/badge/MAC--OS-black?style=plastic&logo=macos)
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jeyofdev/jeyofdev/blob/main/devcard.svg" width="400" alt="Jeyofdev's Dev Card"/></a>
+
+
 <!--
 **jeyofdev/jeyofdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
