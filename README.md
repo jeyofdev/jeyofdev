@@ -1,6 +1,20 @@
+<div align="left">
+  <a href="https://app.daily.dev/DailyDevTips" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/jeyofdev/jeyofdev/blob/main/devcard.svg"
+      alt="Jeyofdev's Dev Card"
+    />
+  </a>
+</div>
+
+<br />
+
+
 ### Hi there, I'm Jérémy Grégoire. 👋
 
-- 🔭 Currently in advanced web and mobile developer training for 12 months until September 14, 2022.
+- 🔭 Currently actively looking for a one-year work-study program for my training as "advanced web and mobile developer" in Bordeaux.
 
 
 ### Working with :
@@ -57,8 +71,8 @@
 ![IOS](https://img.shields.io/badge/iOS-black?style=plastic&logo=ios)
 ![Mac OS](https://img.shields.io/badge/MAC--OS-black?style=plastic&logo=macos)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jeyofdev/jeyofdev/blob/main/devcard.svg" width="400" alt="Jeyofdev's Dev Card"/></a>
 
+![Metrics](https://metrics.lecoq.io/jeyofdev?template=classic&languages=1&achievements=1&lines=1&languages.ignored=hack&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis)
 
 <!--
 **jeyofdev/jeyofdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
