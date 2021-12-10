@@ -16,9 +16,26 @@
 
 - 🔭 Currently actively looking for a one-year work-study program for my training as "advanced web and mobile developer" in Bordeaux.
 
+<details>
+    <summary> <samp>📈 GitHub stats</samp></summary>
+<br/>
 
-### Working with :
+![Jeremy Gregoire GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyofdev&show_icons=true)
 
+</details>
+
+<details>
+    <summary> <samp>📝 Languages</samp></summary>
+<br/>
+
+![Jeremy Gregoire GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyofdev&langs_count=10&layout=compact)
+
+</details>
+
+<details>
+    <summary> <samp>🛠 toolbox</samp></summary>
+<br/>
+  
 - Front-end :  
 ![html5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
 ![css3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
@@ -44,6 +61,7 @@
 ![NodeJS](https://img.shields.io/badge/NODE.JS-black?style=plastic&logo=node.js)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=plastic&logo=express)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic&logo=graphql)
 
 - dependency :   
 ![Composer](https://img.shields.io/badge/-COMPOSER-black?style=plastic&logo=composer)
@@ -70,9 +88,20 @@
 - OS :  
 ![IOS](https://img.shields.io/badge/iOS-black?style=plastic&logo=ios)
 ![Mac OS](https://img.shields.io/badge/MAC--OS-black?style=plastic&logo=macos)
+  
+</details>
 
 
-![Metrics](https://metrics.lecoq.io/jeyofdev?template=classic&languages=1&achievements=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis)
+
+
+
+
+
+### For contact me
+
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:jgregoire.pro@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-gregoire/)
+
 
 <!--
 **jeyofdev/jeyofdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
