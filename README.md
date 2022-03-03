@@ -14,7 +14,6 @@
 
 ### Hi there, I'm Jérémy Grégoire. 👋
 
-- 🔭 Currently actively looking for a one-year work-study program for my training as "advanced web and mobile developer" in Bordeaux or in remote.
 - 🌱 I’m currently learning GraphQl, TypeOrm and Apollo.
 - 👨‍💻 My portfolio is available at [https://jeremy-gregoire.netlify.app/](https://jeremy-gregoire.netlify.app/)
 
@@ -107,7 +106,6 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:jgregoire.pro@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-gregoire/)
-[![Website](https://img.shields.io/badge/Website-4B3263?logo=website&logoColor=white)](https://jeremy-gregoire.netlify.app/)
 
 <!--
 **jeyofdev/jeyofdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
