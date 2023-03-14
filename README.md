@@ -24,7 +24,7 @@
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 
-![Jeremy Gregoire GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyofdev&show_icons=true)
+![Jeremy Gregoire GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyofdev)
 
 </details>
 
