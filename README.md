@@ -14,7 +14,6 @@
 
 ### Hi there, I'm Jérémy Grégoire. 👋
 
-- 🌱 I’m currently learning GraphQl, TypeOrm and Apollo.
 - 👨‍💻 My portfolio is available at [https://jeremy-gregoire.netlify.app/](https://jeremy-gregoire.netlify.app/)
 
 <details>
