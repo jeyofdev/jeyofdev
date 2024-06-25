@@ -1,21 +1,7 @@
-<div align="left">
-  <a href="https://app.daily.dev/DailyDevTips" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/jeyofdev/jeyofdev/blob/main/devcard.svg"
-      alt="Jeyofdev's Dev Card"
-    />
-  </a>
-</div>
-
-<br />
-
-
 ### Hi there, I'm Jérémy Grégoire. 👋
 
 - 👀 I'm interested in web and mobile development
-- 🧑‍🎓 I have just completed an apprenticeship as an application developer designer
+- 🧑‍🎓 I have just finished improving my skills in Java / Spring and Angular
 - 💞️ I am looking to collaborate on new digital projects as well as find my next challenge
 - 🌎 My portfolio is available at [https://jeremy-gregoire.netlify.app/](https://jeremy-gregoire.netlify.app/)
 - 👨‍💻 My new portfolio is currently under development
@@ -58,6 +44,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
 - Back-end :  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -72,6 +59,8 @@
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=flat-square)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Prisma](https://img.shields.io/badge/Prisma-5a67d8?style=flat-square&logo=apollo-graphql)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
   
 - Tests :  
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
