@@ -3,7 +3,7 @@
 - 👀 I'm interested in web and mobile development
 - 🧑‍🎓 I have just finished improving my skills in Java / Spring and Angular
 - 💞️ I am looking to collaborate on new digital projects as well as find my next challenge
-- 🌎 My portfolio is available at [https://jeremy-gregoire.netlify.app/](https://jeremy-gregoire.netlify.app/)
+- 🌎 My portfolio is available at [https://jeremy-gregoire.vercel.app/](https://jeremy-gregoire.vercel.app/)
 - 👨‍💻 My new portfolio is currently under development
 
 <details>
